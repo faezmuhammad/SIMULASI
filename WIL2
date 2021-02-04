@@ -1,0 +1,79 @@
+<style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+</style>
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th></th><th>&nbsp;</th><th>Simulasi Proses Harian Dan Blog</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th><th>&nbsp;</th></tr></thead><tbody>
+ <tr><td>Wilayah 2</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>Tarikh:</td><td>4/2/2021</td><td>&nbsp;</td></tr>
+ <tr><td>PROJEK</td><td>&nbsp;</td><td>2 Hari Lepas</td><td>Semalam</td><td>Hari Ini</td><td>Esok </td><td>Lusa</td><td>Tulat</td></tr>
+ <tr><td>&nbsp;</td><td>Hari</td><td>Selasa</td><td>Rabu</td><td>Khamis</td><td>Jumaat</td><td>Sabtu</td><td>Ahad</td></tr>
+ <tr><td>&nbsp;</td><td>Tarikh</td><td>2/2/2021</td><td>3/2/2021</td><td>4/2/2021</td><td>5/2/2021</td><td>6/2/2021</td><td>7/2/2021</td></tr>
+ <tr><td>Padang Piol</td><td>Terima</td><td>225.71</td><td>236.94</td><td>240</td><td>250</td><td>250</td><td>200</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>0.00</td><td>0.00</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>0</td><td>260</td><td>680</td><td>0</td><td>300</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>244.07</td><td>481.01</td><td>461.01</td><td>31.01</td><td>281.01</td><td>181.01</td></tr>
+ <tr><td> Bukit Kepayang</td><td>Terima</td><td>168.27</td><td>192.92</td><td>300.00</td><td>300</td><td>150</td><td>300</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>0.00</td><td>0.00</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>0</td><td>480</td><td>460</td><td>0</td><td>360</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>202.74</td><td>395.66</td><td>215.66</td><td>55.66</td><td>205.66</td><td>145.66</td></tr>
+ <tr><td>Kota Gelanggi</td><td>Terima</td><td>261.32</td><td>344.08</td><td>450.00</td><td>500</td><td>0</td><td>500</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>0.00</td><td>0.00</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>490</td><td>450</td><td>560</td><td>0</td><td>450</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>303.63</td><td>157.71</td><td>157.71</td><td>97.71</td><td>97.71</td><td>147.71</td></tr>
+ <tr><td> Tementi</td><td>Terima</td><td>218.76</td><td>329.67</td><td>350.00</td><td>400</td><td>300</td><td>500</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>0.00</td><td>0.00</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>440</td><td>360</td><td>460</td><td>0</td><td>700</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>262.61</td><td>152.28</td><td>142.28</td><td>82.28</td><td>382.28</td><td>182.28</td></tr>
+ <tr><td> Seroja</td><td>Terima</td><td>164.65</td><td>314.97</td><td>430</td><td>450</td><td>0</td><td>480</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>0.00</td><td>0.00</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>400</td><td>400</td><td>500</td><td>0</td><td>450</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>210.57</td><td>125.54</td><td>155.54</td><td>105.54</td><td>105.54</td><td>135.54</td></tr>
+ <tr><td> Jengka 8</td><td>Terima</td><td>128.74</td><td>277.85</td><td>400.00</td><td>400</td><td>200</td><td>400</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>0</td><td>600</td><td>530</td><td>0</td><td>500</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>168.56</td><td>446.41</td><td>246.41</td><td>116.41</td><td>316.41</td><td>216.41</td></tr>
+ <tr><td> Jengka 3</td><td>Terima</td><td>84.34</td><td>159.00</td><td>350.00</td><td>350</td><td>200</td><td>350</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>30.93</td><td>76.82</td><td>150.00</td><td>150</td><td>100</td><td>150</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>0</td><td>420</td><td>850</td><td>0</td><td>680</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>161.72</td><td>397.54</td><td>477.54</td><td>127.54</td><td>427.54</td><td>247.54</td></tr>
+ <tr><td>  Lepar Utara 6</td><td>Terima</td><td>430.56</td><td>655.00</td><td>620</td><td>650</td><td>0</td><td>650</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>0.00</td><td>62.47</td><td>120.00</td><td>50</td><td>0</td><td>80</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>820</td><td>810</td><td>910</td><td>0</td><td>670</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>471.86</td><td>369.33</td><td>299.33</td><td>89.33</td><td>89.33</td><td>149.33</td></tr>
+ <tr><td> Triang</td><td>Terima</td><td>230.03</td><td>482.70</td><td>550.00</td><td>550.00</td><td>300.00</td><td>600.00</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>420</td><td>700</td><td>650</td><td>0.00</td><td>850</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>271.76</td><td>334.46</td><td>184.46</td><td>84.46</td><td>384.46</td><td>134.46</td></tr>
+ <tr><td> Jengka 21</td><td>Terima</td><td>101.24</td><td>284.55</td><td>400</td><td>400.00</td><td>0.00</td><td>400.00</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td><td>0.00</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>330</td><td>400</td><td>420</td><td>0</td><td>380</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>105.49</td><td>60.04</td><td>60.04</td><td>40.04</td><td>40.04</td><td>60.04</td></tr>
+ <tr><td>Wilayah 2 </td><td>Terima</td><td>2013.62</td><td>3277.68</td><td>4090.00</td><td>4250.00</td><td>1400.00</td><td>4380.00</td></tr>
+ <tr><td>&nbsp;</td><td>Divert In</td><td>30.93</td><td>139.29</td><td>270.00</td><td>200.00</td><td>100.00</td><td>230.00</td></tr>
+ <tr><td>&nbsp;</td><td>Divert Out</td><td>0.00</td><td>0.00</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+ <tr><td>&nbsp;</td><td>Proses</td><td>0</td><td>2900</td><td>4880</td><td>6020</td><td>0</td><td>5340</td></tr>
+ <tr><td>&nbsp;</td><td>Backlog</td><td>2403.01</td><td>2919.98</td><td>2399.98</td><td>829.98</td><td>2329.98</td><td>1599.98</td></tr>
+</tbody></table>
